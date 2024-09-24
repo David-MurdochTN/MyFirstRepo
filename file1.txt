@@ -1,0 +1,6 @@
+total 13
+0 drwxr-xr-x 1 LINK2GOV+DMurdoch 4096  0 Sep 24 13:11 ./
+8 drwxr-xr-x 1 LINK2GOV+DMurdoch 4096  0 Sep 24 13:03 ../
+4 drwxr-xr-x 1 LINK2GOV+DMurdoch 4096  0 Sep 24 13:03 .git/
+1 -rw-r--r-- 1 LINK2GOV+DMurdoch 4096 86 Sep 24 13:03 README.md
+0 -rw-r--r-- 1 LINK2GOV+DMurdoch 4096  0 Sep 24 13:11 file1.txt
